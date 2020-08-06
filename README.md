@@ -1,3 +1,5 @@
+## Các bạn có thể xem demo: [https://tender-mcnulty-a4a646.netlify.app/](https://tender-mcnulty-a4a646.netlify.app/)
+
 ## I. Installation
    ### 1. Basic step
    `npx create-react-app my-app --template typescript`
